@@ -1,0 +1,127 @@
+[[hiredis]]
+arch = "aarch64"
+git-tree-sha1 = "0d319e0ecf18cfb917ed67eb7d6790f9e8669825"
+os = "macos"
+
+    [[hiredis.download]]
+    sha256 = "a5d28f5799d1b980699f1dc8e8e2c452c529957153f25bdff3331f387ad11250"
+    url = "https://github.com/JuliaBinaryWrappers/hiredis_jll.jl/releases/download/hiredis-v1.1.0+0/hiredis.v1.1.0.aarch64-apple-darwin.tar.gz"
+[[hiredis]]
+arch = "aarch64"
+git-tree-sha1 = "062f4955210362c133e5ed5e4d928b8a570f8fde"
+libc = "glibc"
+os = "linux"
+
+    [[hiredis.download]]
+    sha256 = "e7c121dcd5a48b53fb0b0e3c9ebf3ea00bc81c19fe8f99f654a58b347da21bad"
+    url = "https://github.com/JuliaBinaryWrappers/hiredis_jll.jl/releases/download/hiredis-v1.1.0+0/hiredis.v1.1.0.aarch64-linux-gnu.tar.gz"
+[[hiredis]]
+arch = "aarch64"
+git-tree-sha1 = "1d38be951356342a33001d124075724a2b2c75c2"
+libc = "musl"
+os = "linux"
+
+    [[hiredis.download]]
+    sha256 = "865b982bc854b5159e2b30e8e65dab69dd84d8475c4a059448ebced01b8d0b24"
+    url = "https://github.com/JuliaBinaryWrappers/hiredis_jll.jl/releases/download/hiredis-v1.1.0+0/hiredis.v1.1.0.aarch64-linux-musl.tar.gz"
+[[hiredis]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c69acef01fcf519beeebcaa99ed11e768f9e6948"
+libc = "glibc"
+os = "linux"
+
+    [[hiredis.download]]
+    sha256 = "ffb3eb3acd8975b48cf8901770a0dae63a535eb40b0decc36fb0615f9577c91f"
+    url = "https://github.com/JuliaBinaryWrappers/hiredis_jll.jl/releases/download/hiredis-v1.1.0+0/hiredis.v1.1.0.armv6l-linux-gnueabihf.tar.gz"
+[[hiredis]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c24c20abe4211a3b8f1ed57590379a38d081634b"
+libc = "musl"
+os = "linux"
+
+    [[hiredis.download]]
+    sha256 = "63e0a782f601d32f7e99f3b2cdacad678bc7d76e53cd91c5e87677a485f1df74"
+    url = "https://github.com/JuliaBinaryWrappers/hiredis_jll.jl/releases/download/hiredis-v1.1.0+0/hiredis.v1.1.0.armv6l-linux-musleabihf.tar.gz"
+[[hiredis]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b8e3ac645dcf4935a766fabde9f5467eb0e4203c"
+libc = "glibc"
+os = "linux"
+
+    [[hiredis.download]]
+    sha256 = "b657b1e35cb00ebbeb574371b72e15d81fa08840bb41b274de6b3bdd45794725"
+    url = "https://github.com/JuliaBinaryWrappers/hiredis_jll.jl/releases/download/hiredis-v1.1.0+0/hiredis.v1.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[hiredis]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "4c2b4551b6a7c55f47f1776cc3b259d50f97e848"
+libc = "musl"
+os = "linux"
+
+    [[hiredis.download]]
+    sha256 = "ef4349b8696f9413bb4409f4c4e2184d61aa78b64b411a513baaed10da735898"
+    url = "https://github.com/JuliaBinaryWrappers/hiredis_jll.jl/releases/download/hiredis-v1.1.0+0/hiredis.v1.1.0.armv7l-linux-musleabihf.tar.gz"
+[[hiredis]]
+arch = "i686"
+git-tree-sha1 = "bbb5a3b7d82db271232ab541369d1708576100b5"
+libc = "glibc"
+os = "linux"
+
+    [[hiredis.download]]
+    sha256 = "f9c3ee2d998df4ca28fc4ac1375c8500ce3a4a4a000614a73275643e40c7e368"
+    url = "https://github.com/JuliaBinaryWrappers/hiredis_jll.jl/releases/download/hiredis-v1.1.0+0/hiredis.v1.1.0.i686-linux-gnu.tar.gz"
+[[hiredis]]
+arch = "i686"
+git-tree-sha1 = "a8d39e31dd2557ac62035764b4136e9714c4f4d3"
+libc = "musl"
+os = "linux"
+
+    [[hiredis.download]]
+    sha256 = "38760ef1135fa311d1bd018a6deaf829f0766708ecc3c58ee43f87f06ef31a59"
+    url = "https://github.com/JuliaBinaryWrappers/hiredis_jll.jl/releases/download/hiredis-v1.1.0+0/hiredis.v1.1.0.i686-linux-musl.tar.gz"
+[[hiredis]]
+arch = "powerpc64le"
+git-tree-sha1 = "1594de3413b1839b0d20fc6d0f8d9b30712a21ba"
+libc = "glibc"
+os = "linux"
+
+    [[hiredis.download]]
+    sha256 = "c42563db280def16355a03eaffeca25eb25ecea0e54f11bba42a91d3fa65b17f"
+    url = "https://github.com/JuliaBinaryWrappers/hiredis_jll.jl/releases/download/hiredis-v1.1.0+0/hiredis.v1.1.0.powerpc64le-linux-gnu.tar.gz"
+[[hiredis]]
+arch = "x86_64"
+git-tree-sha1 = "3cb4596861a78c6f834d7250b100ddf0a0332b1b"
+os = "macos"
+
+    [[hiredis.download]]
+    sha256 = "7646c5284df04c9e6970443b1d44a9729354c6e654d1ece15c39fbdb43f8faa9"
+    url = "https://github.com/JuliaBinaryWrappers/hiredis_jll.jl/releases/download/hiredis-v1.1.0+0/hiredis.v1.1.0.x86_64-apple-darwin.tar.gz"
+[[hiredis]]
+arch = "x86_64"
+git-tree-sha1 = "3b43e7def341246510f48824480681741087bbbb"
+libc = "glibc"
+os = "linux"
+
+    [[hiredis.download]]
+    sha256 = "6b924b46ad4c8ea308ca5fd05e3e5f7c25af457bb2dc06134d2ed948a8992857"
+    url = "https://github.com/JuliaBinaryWrappers/hiredis_jll.jl/releases/download/hiredis-v1.1.0+0/hiredis.v1.1.0.x86_64-linux-gnu.tar.gz"
+[[hiredis]]
+arch = "x86_64"
+git-tree-sha1 = "5875760092fb5384fa7a98af70e717ae0dd96a2f"
+libc = "musl"
+os = "linux"
+
+    [[hiredis.download]]
+    sha256 = "a911d57397e1ae6d77cb3004234e6c17a79a78d288a53d4e7e518a2303f19fca"
+    url = "https://github.com/JuliaBinaryWrappers/hiredis_jll.jl/releases/download/hiredis-v1.1.0+0/hiredis.v1.1.0.x86_64-linux-musl.tar.gz"
+[[hiredis]]
+arch = "x86_64"
+git-tree-sha1 = "18aa9d595265400dbdab731b9728586b2143a257"
+os = "freebsd"
+
+    [[hiredis.download]]
+    sha256 = "b2e15771a894f69019f8c9e61d462928724d758ae3b16a042c50a67f25105035"
+    url = "https://github.com/JuliaBinaryWrappers/hiredis_jll.jl/releases/download/hiredis-v1.1.0+0/hiredis.v1.1.0.x86_64-unknown-freebsd.tar.gz"
